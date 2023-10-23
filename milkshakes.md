@@ -1,4 +1,1 @@
-Chocolate flavour
-Oreo flavour
-Strawberry flavour
-bubblegum flavour
+Chocolate flavour, Oreo flavour, Strawberry flavour and bubblegum flavour
