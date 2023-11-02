@@ -1,4 +1,4 @@
-This is a readme file. I have decide to make ramdom changes.
+This is a readme file. I have decided to make random changes.
 
 booya
 
